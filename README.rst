@@ -9,9 +9,18 @@ awesome-puredata
 creating interactive computer music and multimedia works. It is available on a
 number of platforms: GNU/Linux, Mac OS X, Windows, Android, iOS...
 
+resources~
+----------
+
+reference~
+~~~~~~~~~~
+
+* `Pure Data Introduction
+  <http://write.flossmanuals.net/pure-data/introduction2/>`_ on FLOSS Manuals
+* The `Bang <http://puredata.info/groups/pd-graz/label/book/>`_ book
 
 community~
-----------
+~~~~~~~~~~
 
 * `Pd-list <https://lists.puredata.info/listinfo/pd-list>`_
 * `Pure Data Patch Repository <http://pdpatchrepo.info/>`_
@@ -33,8 +42,14 @@ pc, mac
 mobile
 ~~~~~~
 
+* `PDa <http://pd-anywhere.sourceforge.net/>`_ - Pure Data Anywhere
 * `PdDroidParty <http://droidparty.net/>`_ for Android
 * `PdParty <http://danomatika.com/code/pdparty>`_ for iOS
+
+web, self-hosted
+~~~~~~~~~~~~~~~~
+
+* `WebPd <https://github.com/sebpiq/WebPd>`_
 
 
 projects~
@@ -78,6 +93,8 @@ tutorials~
   `Part 1 <http://libremusicproduction.com/tutorials/creating-simple-synthesizer-pure-data-%E2%80%93-part-i>`_,
   `Part 2 <http://libremusicproduction.com/tutorials/creating-simple-synthesizer-pure-data-%E2%80%93-part-ii>`_,
   `Part 3 <http://libremusicproduction.com/tutorials/creating-simple-synthesizer-pure-data-%E2%80%93-part-iii>`_
+* `Pure Data: An Introduction
+  <https://www.soundonsound.com/techniques/pure-data-introduction>`_
 * `Abstractions and User Interfaces in Pure Data
   <https://daniel-murray.github.io/blog/2013/01/21/abstractions-and-user-interfaces-in-pure-data/>`_
 * `A compressor in Pure Data

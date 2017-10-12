@@ -91,6 +91,15 @@ abstractions~
 
 * `Karplus-Strong guitar string synthesis
   <http://blog.loomer.co.uk/2010/02/karplus-strong-guitar-string-synthesis.html?m=1>`_
+* `Shore water <http://pdpatchrepo.info/patches/patch/5>`_
+
+compositions~
+~~~~~~~~~~~~~
+
+* `Algorithmic Composition of Acid House with Lo-Fi Timbres
+  <https://acreil.wordpress.com/2013/04/20/algorithmic-composition-of-acid-house-with-lo-fi-timbres/>`_
+* `Medtation background <http://pdpatchrepo.info/patches/patch/3>`_
+* `Tonal and atonal <http://pdpatchrepo.info/patches/patch/11>`_
 
 libraries~
 ~~~~~~~~~~

@@ -29,6 +29,7 @@ mobile
 * `PDa <http://pd-anywhere.sourceforge.net/>`_ - Pure Data Anywhere
 * `PdDroidParty <http://droidparty.net/>`_ for Android
 * `PdParty <http://danomatika.com/code/pdparty>`_ for iOS
+* `MobMuPlat <http://danieliglesia.com/mobmuplat/>`_ for both Android and iOS
 
 web, self-hosted
 ~~~~~~~~~~~~~~~~
@@ -44,9 +45,16 @@ reference~
 
 * `Pure Data Introduction
   <http://write.flossmanuals.net/pure-data/introduction2/>`_ on FLOSS Manuals
-* The `Bang <http://puredata.info/groups/pd-graz/label/book/>`_ book
 * Videos of Miller Puckette's UCSD class
   `MUS171 <http://pd-la.info/pd-media/miller-puckette-mus171-videos/>`_
+
+books~
+~~~~~~
+
+- The `Bang <http://puredata.info/groups/pd-graz/label/book/>`_ book
+- `Designing Sound <https://mitpress.mit.edu/books/designing-sound>`_ by Andy Farnell
+- `Making Musical Apps: Real-time audio synthesis on Android and iOS
+  <http://shop.oreilly.com/product/0636920022503.do>`_ by Peter Brinkman
 
 community~
 ~~~~~~~~~~
@@ -59,6 +67,7 @@ tutorials~
 ~~~~~~~~~~
 
 * `Tutorials and HOWTOs <http://puredata.info/docs/tutorials>`_
+* `Algorithmic Composer <http://www.algorithmiccomposer.com/>`_
 * Creating a simple synthesizer in Pure Data -
   `Part 1 <http://libremusicproduction.com/tutorials/creating-simple-synthesizer-pure-data-%E2%80%93-part-i>`_,
   `Part 2 <http://libremusicproduction.com/tutorials/creating-simple-synthesizer-pure-data-%E2%80%93-part-ii>`_,
@@ -131,3 +140,5 @@ albums~
 * `Beep (Original Score)
   <https://leonardjpaul.bandcamp.com/releases>`_ by Leonard J. Paul
 * `Expedition <https://kindohm.bandcamp.com/album/expedition>`_ by Kindohm
+* `VPUL005 : ancient machine
+  <https://voidpulse.bandcamp.com/album/vpul005-ancient-machine>`_ by voidpulse

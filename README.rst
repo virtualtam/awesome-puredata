@@ -31,6 +31,12 @@ mobile
 - `PdParty <http://danomatika.com/code/pdparty>`_ for iOS
 - `MobMuPlat <http://danieliglesia.com/mobmuplat/>`_ for both Android and iOS
 
+pc, mac, mobile
+~~~~~~~~~~~~~~~
+
+- `libpd <http://libpd.cc/>`_
+- `Pure Data extension for LibGDX <https://github.com/mgsx-dev/gdx-pd>`_
+
 web, self-hosted
 ~~~~~~~~~~~~~~~~
 
